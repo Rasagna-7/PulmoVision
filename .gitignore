@@ -1,0 +1,9 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+demo_images/ 
+data/*.csv 
+data/samples.png 
+patch_*.py 
+start_pulmovision.bat
+data/gradcam_demo.png
